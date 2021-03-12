@@ -21,6 +21,6 @@ If you use this code in your work, please cite the accompanying paper:
 }
 ```
 
-## License
+## Note
 The code is strictly restricted by some policies of tech transfer agreement with company, thus cannot be for improper usage. 
 The company keeps the right for deleting the repository in the future.
